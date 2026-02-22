@@ -1,7 +1,7 @@
 
   # Sudeeptha Studio
 
-  This is a code bundle for Sudeeptha Studio. The original project is available at https://www.figma.com/design/44YQJTgZa00XiW1lrJGqjD/Sudeeptha-Studio.
+  This is a code bundle for Sudeeptha Studio.
 
   ## Running the code
 
