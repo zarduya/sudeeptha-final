@@ -63,3 +63,7 @@ The project is deployed using **Vercel**, which provides fast hosting and automa
 
 This is an **early prototype of the studio website**.  
 Some images and content are placeholders while the studio builds its full portfolio.
+
+## Preview
+
+![Website Preview](preview.png)
